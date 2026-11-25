@@ -1,8 +1,3 @@
-````markdown
-<p align="center">
-  <img src="./kelly.png" alt="Kelly logo" width="112">
-</p>
-
 ## **Kelly** (work in progress)
 
 Kelly is an experimental fork of VIctory, a compatibility layer that runs an Xbox Series X|S title natively on Windows using files you supply. It follows upstream `main` and focuses on getting the world to render correctly and improving performance on the test PC.
